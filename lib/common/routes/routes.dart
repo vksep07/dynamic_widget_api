@@ -4,7 +4,6 @@ import 'package:flutter/material.dart';
 
 class Routes {
   static const String home_screen = 'home_Screen';
-  static const String crypto_detail_screen = 'crypto_detail_screen';
   static const String splash = 'splash';
 
   static Route<dynamic>? getGeneratedRoute(RouteSettings settings) {
