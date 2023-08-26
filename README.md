@@ -1,4 +1,4 @@
-# Dymanic Widget Sample App  ( Dynamic Widget Renderer )
+# Dymanic Widget App  ( Dynamic Widget Renderer )
 
 The Dynamic Widget Renderer is a Flutter application that demonstrates how to dynamically render widgets from JSON data. It showcases a variety of widgets, including banners and horizontal lists, loaded from a JSON configuration. The app also features dynamic theme support for both light and dark modes, all of which can be configured using JSON data.
 
